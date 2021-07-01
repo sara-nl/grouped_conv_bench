@@ -1,5 +1,5 @@
 ## Summary
-This repository contains benchmark code and scripts for benchmarking grouped convolutions.
+This repository contains benchmark code and scripts for benchmarking grouped convolutions. It was used to write the article https://medium.com/@casparvanleeuwen/why-efficientnet-is-not-very-computationally-efficient
 
 ## How to run
 The main benchmark script is `pytorch_benchmark.py`. You can find example bash scripts of how to run it in the `scripts` directory
